@@ -37,7 +37,7 @@ const Menu = () => {
                                 <p className='text-sm text-text text-left'>
                                     Cóctel sencillo viene cargado con camarones frescos y una mezcla vibrante de cebolla, pepino, maíz tierno, limón y cilantro, todo aderezado con salsa picante, salsa de tomate y mayonesa. ¡Y no te olvides de las galletas saltín para acompañar!
                                 </p>
-                                <a className='flex items-center justify-center  font-semibold bg-[#05a684] text-white py-2 mt-5 px-5 rounded-full shadow-lg hover:bg-tertiary transition duration-300' href="https://wa.me/57301480138?text=Quiero un cóctel de camarón sencillo, que presentaciones tienes y precio.">
+                                <a className='flex items-center justify-center  font-semibold bg-[#05a684] text-white py-2 mt-5 px-5 rounded-full shadow-lg hover:bg-tertiary transition duration-300' href="https://wa.me/573014801382?text=Quiero un cóctel de camarón sencillo, que presentaciones tienes y precio.">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={30} height={30} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="icon icon-tabler icons-tabler-outline icon-tabler-brand-whatsapp mr-3">
                                         <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                                         <path d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9" />
@@ -62,7 +62,7 @@ const Menu = () => {
                                 <p className='text-sm text-text text-left'>
                                     Cóctel especial viene cargado con chipichipi, camarones frescos y una mezcla vibrante de cebolla, pepino, maíz tierno, limón, palmito y cilantro, todo aderezado con salsa picante, salsa de tomate y mayonesa. ¡Y no te olvides de las galletas saltín para acompañar!
                                 </p>
-                                <a className='flex items-center justify-center  font-semibold bg-[#05a684] text-white py-2 mt-5 px-5 rounded-full shadow-lg hover:bg-tertiary transition duration-300' href="https://wa.me/57301480138?text=Quiero un cóctel de camarón especial, que presentaciones tienes y precio.">
+                                <a className='flex items-center justify-center  font-semibold bg-[#05a684] text-white py-2 mt-5 px-5 rounded-full shadow-lg hover:bg-tertiary transition duration-300' href="https://wa.me/573014801382?text=Quiero un cóctel de camarón especial, que presentaciones tienes y precio.">
                                     <svg xmlns="http://www.w3.org/2000/svg" width={30} height={30} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2} strokeLinecap="round" strokeLinejoin="round" className="icon icon-tabler icons-tabler-outline icon-tabler-brand-whatsapp mr-3">
                                         <path stroke="none" d="M0 0h24v24H0z" fill="none" />
                                         <path d="M3 21l1.65 -3.8a9 9 0 1 1 3.4 2.9l-5.05 .9" />
