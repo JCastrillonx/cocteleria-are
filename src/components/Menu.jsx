@@ -1,4 +1,4 @@
-
+import logo from '../assets/logo.svg'
 import coctelS from '../assets/coctel-sen.png'
 import coctelImg from '../assets/coctel.png'
 const Menu = () => {
@@ -53,7 +53,7 @@ const Menu = () => {
                     <div className="bg-[#1f2c34] rounded-lg">
                         <div className="flex flex-col items-center p-6 rounded-lg shadow-lg">
                             <div className="relative">
-                                <img src={coctelImg} alt="Descripción de la imagen" className="rounded-full border-[15px] border-tertiary w-80 h-80 mb-2" />
+                                <img src={coctelImg} alt="Descripción de la imagen" className="rounded-full border-[11px] border-tertiary w-80 h-80 mb-2" />
                                 <div className="absolute  bottom-0 left-0 right-0 bg-tertiary text-white text-center clip-bg py-1">
                                     <h2 className="text-3xl font-secondary">Especial</h2>
                                 </div>
@@ -77,10 +77,9 @@ const Menu = () => {
                     <div className="bg-[#1f2c34] rounded-lg">
                         <div className="flex flex-col items-center p-6 rounded-lg shadow-lg">
                             <div className="relative">
-
-
+                                <img src={logo} alt="" className='w-80' />
                             </div>
-                            <div className='bg-[#121b22] w-full mt-5  rounded-lg  p-5' >
+                            <div className='bg-[#121b22] w-full mt-8  rounded-lg  p-5' >
                                 <p className='text-xl text-text text-left'>
                                     Encuéntranos en: <br /> <br />
                                     Calle 69, Carrera 18 Sur, <br />
