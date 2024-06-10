@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Lobster&family=Poppins&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.line-with-text::before, .line-with-text::after {
+    content: '';
+    height: 3px;
+    width: 50px;
+    background: #ff6600; /* Color naranja */
+}
+.line-with-text {
+    display: flex;
+    align-items: center;
+}
+
+.clip-bg {
+   
+    clip-path: polygon(10% 0, 90% 0, 100% 50%, 90% 100%, 10% 100%, 0% 50%);
+} 
+
+
